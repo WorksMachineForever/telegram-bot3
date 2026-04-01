@@ -1,0 +1,7 @@
+app = "telegram-market-bot"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8080"
